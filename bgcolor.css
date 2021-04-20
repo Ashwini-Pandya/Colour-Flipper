@@ -1,0 +1,18 @@
+*:focus {
+  outline: none;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  margin-top: 17rem;
+}
+
+.button {
+  border: 2px solid black;
+  padding: 0.5rem;
+  padding-top: 0.3rem;
+  padding-bottom: 0.3rem;
+  border-radius: 1rem;
+  margin-right: 0.7rem;
+}
